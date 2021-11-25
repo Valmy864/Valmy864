@@ -42,3 +42,6 @@
  <a href = "mailto::valmyleoncio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="center"> 
+  <a href="https://komarev.com/ghpvc/?username=valmyleoncio" target="_blank"><img src="https://komarev.com/ghpvc/?username=valmyleoncio&color=blue&label=Visitors&style=flat-square" target="_blank", align="center"></a>
+</div>
