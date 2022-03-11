@@ -14,12 +14,12 @@
 
 <div align="center">
   <a href="https://github.com/valmyleoncio">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=valmyleoncio&show_icons=true&theme=vue&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=0095FF&icon_color=0095FF&show_icons=true&hide_border=true&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valmyleoncio&show_icons=true&theme=vue&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=0095FF&icon_color=0095FF&show_icons=true&hide_border=true&text_color=ffffff"/>
 </div>
   
 <div align="center">
   <a href="https://github.com/valmyleoncio">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmyleoncio&layout=compact&langs_count=7&theme=vue&bg_color=0D1117&title_color=0095FF&icon_color=0095FF&show_icons=true&hide_border=true&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmyleoncio&layout=compact&langs_count=7&theme=vue&bg_color=0D1117&title_color=0095FF&icon_color=0095FF&show_icons=true&hide_border=true&text_color=ffffff"/>
 </div>
 
 
