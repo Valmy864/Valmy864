@@ -15,13 +15,9 @@
 <div align="center">
   <a href="https://github.com/valmyleoncio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valmyleoncio&show_icons=true&theme=vue&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=0095FF&icon_color=0095FF&show_icons=true&hide_border=true&text_color=ffffff"/>
-</div>
-  
-<div align="center">
   <a href="https://github.com/valmyleoncio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmyleoncio&layout=compact&langs_count=7&theme=vue&bg_color=0D1117&title_color=0095FF&icon_color=0095FF&show_icons=true&hide_border=true&text_color=ffffff"/>
 </div>
-
 
 <h3 align="center"> 📚 Learning: </h3>
 <div align="center" style="display: inline_block">
@@ -30,12 +26,14 @@
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="OpenGL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg">
+  <img align="center" alt="Unity" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg">
   <img align="center" alt="RStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
-  <img align="center" alt="Unity" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
 </div>
 
